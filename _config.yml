@@ -20,32 +20,25 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 Poiesis.socialart
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
-
-# A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
-
-# A list of keywords for your blog
-keywords:              []
-
-# A (square) logo for your site.
-# If provided, it will be shown at the top of the sidebar.
-# It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+  Poiesis.socialart is a digital space that discusses and engages in social art practice, and it also hosts workshops around the themes of inclusion and social justice to bridge fieldwork with research.
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Dania Shahkhan
+  email:               daniashahkhan@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
+
+# A (square) logo for your site.
+# If provided, it will be shown at the top of the sidebar.
+# It also used by the `jekyll-seo-tag` plugin.
+logo:                  "/assets/img/logo.jpg"
 
 # Add links to the sidebar.
 menu:
@@ -57,7 +50,8 @@ menu:
     url:               /resume/
   - title:             Documentation
     url:               /docs/
-
+  # - title:             About
+  #   url:               /about/
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:

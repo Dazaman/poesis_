@@ -2,17 +2,13 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Dania Shahkhan
+  email:             daniashahkhan@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+    Dania is ​an art educator and a visual artist based in Sydney. I​n 2017 she received her B.F.A. in painting and new media from Indus Valley School of Art and Architecture (​Karachi, Pakistan) ​and in 2019 she did her postgraduate, M.Ed. from ArteZ University (Arnhem, Netherlands).
 
   # This photo will be used in the about section
   picture:
@@ -26,20 +22,16 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
+    # twitter:         <username>
+    # github:          <username>
     # email:           <mail@domain.tld>
-    # rss:             https://<url>/feed.xml
-    # facebook:        <username>
-    # google:          <number>
-    # vk:              <username>
     # youtube:         <string_string_string>
     # vimeo:           <username>
     # vine:            <username>
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
+    instagram:       dania.sk.art
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -68,15 +60,20 @@ author1:
 
 # Another author (optional)
 author2:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Maha Minhaj
+  email:             Maha.minhaj@gmail.com
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-    Open `_data/authors.yml` to edit this text.
+    Minhaj graduated from IVS with a B.F.A. in 2017 ​(Karachi, Pakistan)​; she is a visual and performance artist with a background in theatre. 
 
   picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
+  social:
+    # twitter:         <username>
+    # github:          <username>
+    # email:           <mail@domain.tld>
+    # youtube:         <string_string_string>
+    # vimeo:           <username>
+    # vine:            <username>
+    # spotify:         <user>/<number>
+    # soundcloud:      <username>
+    # lastfm:          <username>
+    instagram:       _thegentlewoman_
