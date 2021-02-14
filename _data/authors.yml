@@ -1,18 +1,18 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
-author1:
-  name:              Dania Shahkhan
-  email:             daniashahkhan@gmail.com
+poesis:
+  name:              Poesis Socialart
+  email:             poiesis.socialart@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Dania is ​an art educator and a visual artist based in Sydney. I​n 2017 she received her B.F.A. in painting and new media from Indus Valley School of Art and Architecture (​Karachi, Pakistan) ​and in 2019 she did her postgraduate, M.Ed. from ArteZ University (Arnhem, Netherlands).
+    Poiesis.socialart is a digital space that discusses and engages in social art practice, and it also hosts workshops around the themes of inclusion and social justice to bridge fieldwork with research.
 
   # This photo will be used in the about section
   picture:
-    path:            https://placehold.it/128x128
+    path:            "/assets/img/logo.jpg"
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
       1x:            https://placehold.it/128x128
@@ -31,7 +31,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    instagram:       dania.sk.art
+    instagram:       poiesis.socialarts
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -59,21 +59,20 @@ author1:
     # keybase          <username>
 
 # Another author (optional)
-author2:
+Maha:
   name:              Maha Minhaj
   email:             Maha.minhaj@gmail.com
   about:             |
     Minhaj graduated from IVS with a B.F.A. in 2017 ​(Karachi, Pakistan)​; she is a visual and performance artist with a background in theatre. 
-
   picture:           https://placehold.it/128x128
   social:
-    # twitter:         <username>
-    # github:          <username>
-    # email:           <mail@domain.tld>
-    # youtube:         <string_string_string>
-    # vimeo:           <username>
-    # vine:            <username>
-    # spotify:         <user>/<number>
-    # soundcloud:      <username>
-    # lastfm:          <username>
+    instagram:       _thegentlewoman_
+
+Dania:
+  name:              Dania Shahkhan
+  email:             daniashahkhan@gmail.com
+  about:             |
+    Shahkhan is ​an art educator and a visual artist based in Sydney. I​n 2017 she received her B.F.A. in painting and new media from Indus Valley School of Art and Architecture (​Karachi, Pakistan) ​and in 2019 she did her postgraduate, M.Ed. from ArteZ University (Arnhem, Netherlands).
+  picture:           https://placehold.it/128x128
+  social:
     instagram:       _thegentlewoman_

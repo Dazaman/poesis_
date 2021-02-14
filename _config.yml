@@ -30,10 +30,28 @@ description:           >
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                Dania Shahkhan
-  email:               daniashahkhan@gmail.com
+  name:                Poesis Socialart
+  email:               poiesis.socialart@gmail.com
+  about:             |
+    Poiesis.socialart is a digital space that discusses and engages in social art practice, and it also hosts workshops around the themes of inclusion and social justice to bridge fieldwork with research.
+
+  # This photo will be used in the about section
+  picture:
+    path:            "/assets/img/logo.jpg"
+    # srcset is optional, but can be used to provide higher res versions for retina displays
+    srcset:
+      1x:            https://placehold.it/128x128
+      2x:            https://placehold.it/256x256
+
+  social:
+    instagram:       poiesis.socialarts
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
+
+author2:
+  # Used by `jekyll-feed`:
+  name:                Maha Minhaj
+  email:               maha.minhaj@gmail.com
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -50,8 +68,8 @@ menu:
     url:               /resume/
   - title:             Documentation
     url:               /docs/
-  # - title:             About
-  #   url:               /about/
+  - title:             About
+    url:               /about/
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
@@ -332,6 +350,7 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-include-cache
   - jekyll-last-modified-at
+  - jekyll-avatar
 
 
 # SEO Tag
