@@ -16,6 +16,4 @@ We also hope to eventually become a platform that enables creators and practitio
 
 ### Poesis Social Art
 
-## -
-
 <!--author-->
