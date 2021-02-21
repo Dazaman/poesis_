@@ -61,6 +61,8 @@ menu:
     url:               /blog/
   - title:             Projects
     url:               /projects/
+  - title:             Resources
+    url:               /resources/
   - title:             Résumé*
     url:               /resume/
   - title:             Documentation
@@ -313,6 +315,9 @@ collections:
     permalink:         /projects/:path/
     output:            true
 
+  resources:
+    permalink:         /resources/:path/
+    output:            true
 
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------
