@@ -5,6 +5,10 @@ caption: Social Play Workshop
 description:
 date: '01-01-2019'
 image: /assets/img/projects/socialplay/DSC_4519.JPG
+accent_color: '#E5B10F'
+accent_image:
+  background: '#E5B10F'
+theme_color: '#E5B10F'
 sitemap: false
 galleries: hello
 

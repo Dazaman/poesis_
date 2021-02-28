@@ -11,10 +11,10 @@ image:
   #   1920w: /assets/img/projects/qwtel.jpg
   #   960w:  /assets/img/projects/qwtel@0,5x.jpg
   #   480w:  /assets/img/projects/qwtel@0,25x.jpg
-accent_color: '#4fb1ba'
+accent_color: '#E5B10F'
 accent_image:
-  background: '#193747'
-theme_color: '#193747'
+  background: '#E5B10F'
+theme_color: '#E5B10F'
 sitemap: false
 # author: Dania
 ---
