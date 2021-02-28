@@ -63,7 +63,7 @@ menu:
     url:               /resources/
   # - title:             Résumé*
   #   url:               /resume/
-  - title:             Documentation
+  - title:             Archive
     url:               /docs/
   - title:             About Us
     url:               /about/
