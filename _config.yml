@@ -100,7 +100,7 @@ theme: jekyll-theme-hydejack
  
 # Sidebar image and theme color of the site.
 # accent_image:          /assets/img/sidebar-bg-dania.jpg
-accent_image:          /assets/img/background_hand_cropped.jpg
+accent_image:          /assets/img/background_hand.jpg
 accent_color:          rgb(229,177,15)
 # accent_color:          rgb(79,177,186)
 
