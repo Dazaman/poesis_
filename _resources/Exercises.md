@@ -1,15 +1,22 @@
 ---
 layout: project
-title: 'Exercies'
-caption: "Exercises"
+title: 'Exercises'
+caption: ''
 description: >
-  Exercises
-date: '01-01-2019'
-image: /assets/img/projects/bl_cm_likl_contour.png
-links:
-  - title: BayesLands GitHub page
-    url: https://github.com/intelligentEarth/pt-Bayeslands
+  ''
+date: 20 Feb 2020
+image: 
+  path: /assets/img/projects/socialplay/Games.jpg
+  # srcset: 
+  #   1920w: /assets/img/projects/qwtel.jpg
+  #   960w:  /assets/img/projects/qwtel@0,5x.jpg
+  #   480w:  /assets/img/projects/qwtel@0,25x.jpg
+accent_color: '#4fb1ba'
+accent_image:
+  background: '#193747'
+theme_color: '#193747'
 sitemap: false
+# author: Dania
 ---
 ## Games
 
@@ -33,7 +40,6 @@ Outcome: Warm-up introductory to Forum Theater
 **The Blind Car** (Boal,2002)
 
 One person stands behind another, who is the car. From behind, the driver guides the movements of the ‘blind car’ by gently pressing a ﬁnger in the middle of the back (go straight on), on the left shoulder (turn left – the nearer the shoulder, the sharper the corner), the right shoulder (similarly), or with a hand on the neck (reverse). As there will be a number of blind cars driving round at the same time, it is important to avoid crashes. The cars stop when the drivers stop touching them (as with the accelerator on bumper cars).24 The speed is regulated by harder or softer pressure with the ﬁnger
-
 
 Outcome: Trust building exercise
 
@@ -66,8 +72,6 @@ Done silently in pairs. Works best if the said pair are strangers.
 Partner a faces partner b. a begins movement slowly and b follows. The shift of ‘power’ comes silently with movement of b whenever he/she/they decide to take charge of the movements and flow of the physical dialogue. Facilitators moderate the pace of the participants.
 
 Outcome: Emotional/physical intuitiveness, engagement, challenge, attentiveness. Anticipatory exercise.
-
-
 
 **Changing Rhythms** (Boal, 2002)
 Using voices, hands and feet, all the actors set up a rhythm together. After a few minutes, they change it slowly, till a new rhythm emerges, and so on, for several minutes.
@@ -128,14 +132,12 @@ Having your gender as an option on a form.
 Expressing affection in most social situations and not expecting hostile or violent reactions from others regarding your partner.
 Learning about romance and relationships from fiction movies and television.
 
-
 **Trust the Drawing**
 Depending on the number of participants, create rows of people (minimum 5), against a wall, one behind another. The person standing in front of the wall is equipped with a paper and a pencil/marker/crayon/pen.
 The person standing at the very back starts drawing on the back of the person in front of them with their index finger. The person in front will shadow the movements felt on his/her/their back and translate it forward until it reaches the person in front of the wall who will subsequently translate the image onto the paper. Once the drawing is complete, a group discussion will follow regarding what image was intended, and what image came as a result of this exercise.
 
 Outcome: A visual understanding of how dialogue can be lost in translation.
- 
- 
+
 **The Wooden Sword of Paris** (Boal, 2002)
 Two groups facing each other, with a leader in front of each group. They ﬁght a duel as if they bore wooden swords in their hands, taking alternate strokes. Each leader can give six different strokes:
 1 as if to chop off the head of the opposing leader – in which case all the opposing team must duck, simultaneously; 
@@ -153,15 +155,15 @@ Variation
 In the verbal version, one actor starts telling a story, which is continued by a second actor, and so on till the whole group has contributed a part of it. This can be done in the same way as the drawn version, with half the group as an audience, half playing: one actor at a time comes into the room, speaks a couple of lines, and repeats only the last few words when the next actor comes in. Or with a tape recorder, the whole group can play at once, with the product being recorded to be played back at the end. Innocent as such games may seem, they can be very stimulating to the imagination.
 
 Outcome: Introduces story-telling and engages the imagination
- 
- 
+
 **How many ‘A’s in a single ‘A’?** (Boal, 2002)
 A circle. One actor goes into the middle and expresses a feeling, an emotion or an idea, using only the sound of the letter ‘A’ in any of its possible inﬂections, plus a movement or gesture that goes with it. All the actors in the circle repeat that sound and action three times. Then another actor goes in and expresses a different idea, emotion, or feeling, and again the circle repeats it three times. And so on. Then the same thing with ‘E’, ‘I’, ‘O’ and ‘U’. Then with a single word. Finally with a sentence
 Outcome:  Sensory and emotive engagement
- 
- ##  IMAGE THEATER
+
+## IMAGE THEATER
 
 **Warm-up games: The Space Series** (Boal, 2002)
+
 1) Without leaving a single space in the room empty
 All the actors must walk around very quickly (not running) trying to ensure that their own bodies are always more or less equidistant from everyone else’s, and that they are all spread out over the whole ﬂoor-space of the room. From time to time the Joker says ‘Stop’. At that moment, everyone must immediately come to a halt – it should not be possible to see a signiﬁcantly empty space in the room. The main thing is not to come to a halt before the ‘Stop’. Whenever anyone sees or senses an empty space, they go and ﬁll it with their body, but they can’t stay there, so a moment later it is empty again, except that someone comes to ﬁll it, but they can’t stop there either....
 2) Instead of simply saying ‘Stop’, the Joker says a number
@@ -176,15 +178,10 @@ The Joker calls out as speciﬁed – a part of the body (hair, eyes) may be use
 Running slowly is not the same as walking quickly. From time to time the Joker says ‘Stick’ and immediately the actors stick together in groups of three, ﬁve, or more, but without stopping. Everyone must keep running, which is extremely difﬁcult. Then the Joker says ‘Separate’ and everyone must separate. And then it starts over again, with the participants still trying not to leave empty spaces on the ﬂoor of the room.
 Outcome: This series also engages all the senses.
 
-
-
-
-
 **One Person We Fear, One Person is Our Protector** (Boal, 2002)
 All the participants must be scattered around the room. Without saying anything, each person must think of one person in the room who frightens him (for the purposes of the game only). Everyone moves around the room, trying to keep as far away from the person who frightens them as possible, but also not letting that person be aware of the fact that they have chosen them as the one they fear. After a short time, the Joker asks everyone to think of another person who is their protector (who should also not be able to tell that he has been chosen as such). Now everyone moves around again, trying to keep their protector between them and the person they fear. Eventually, the Joker gives a countdown and everyone must freeze where they are – then the players find out who has succeeded in evading the one they fear.
 
 Outcome: Understanding concept of fear/intimidation
-
 
 **The Invention of Space & the Spatial Structures of Power**
 **Furnish the empty space** (Boal, 2002)
@@ -388,30 +385,8 @@ The participants join each other in a circle. The facilitator asks each person t
 Outcome: Calm, grounding exercise that releases the tensions of the mind and body to conclude the workshop
 
 
-
-
-
-
-
-
-
 **REFERENCES**
 
 Boal, A. (2002). Games for actors and non-actors (2nd Edition). London: Routledge 
 Ganguly, S. (2017). From Boal to Jana Sanskriti (pp. 13-15, 69, 70, 73-80). NewYork: Routledge.
 Miramonti, A. (2017). How to use Forum Theatre for Community Dialogue - A Facilitator’s Handbook. (p. 192). Lulu.com
-
-
-
-
-
-
-
-<!-- **hy-drawer** is a touch-enabled drawer component for the modern web. It focuses on providing a fun, natural feel in both the Android and iOS stock browser, while being performant and easy to use. It is the perfect companion for mobile-first web pages and progressive web apps.
-
-> A touch-enabled drawer component for the modern web.
-{:.lead}
-
-**hy-drawer** is used by hundreds of sites as part of the [Hydejack] Jekyll theme.
-
-[hydejack]: ../README.md -->

@@ -3,10 +3,10 @@ layout: project
 title: 'Glossary'
 caption: Glossary of terms
 description: >
-  Here is a glossary of terms used.
+  Here is a glossary of terms used in our work.
 date: 28 Feb 2020
 image: 
-  path: /assets/img/projects/socialplay/IMG20191205211351.jpg
+  path: /assets/img/projects/socialplay/Glossary.jpg
   # srcset: 
   #   1920w: /assets/img/projects/qwtel.jpg
   #   960w:  /assets/img/projects/qwtel@0,5x.jpg
@@ -16,7 +16,7 @@ accent_image:
   background: '#193747'
 theme_color: '#193747'
 sitemap: false
-author: Dania
+# author: Dania
 ---
  
 ## Glossary

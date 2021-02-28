@@ -73,8 +73,14 @@ layout: base
     {% if project.caption %}<meta property="disambiguatingDescription" content="{{ project.caption }}"/>{% endif %}
   </header>
 
+  {% if page.galleries %}{% include image-gallery.html folder="../../assets/img/projects/socialplay" %}{% endif %}
+  {% include image-gallery.html folder="../../assets/img/projects/socialplay" %}
+
   {{ content }}
+  <script type="text/javascript" src="../../#jekyll-theme-hydejack/assets/js/lightbox.js"></script>
+  <link rel="stylesheet" href="../../#jekyll-theme-hydejack/assets/css/lightbox.css">
 </article>
+
 
 {% include components/dingbat.html %}
 

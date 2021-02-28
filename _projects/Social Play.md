@@ -1,15 +1,13 @@
 ---
 layout: project
-title: 'BayesLands'
-caption: "BayesLands: Bayesian inference via Parallel Tempering for Badlands"
-description: >
-  Bayesian inference via Parallel Tempering for Badlands
+title: 'Social Play'
+caption: Social Play Workshop
+description:
 date: '01-01-2019'
-image: /assets/img/projects/bl_cm_likl_contour.png
-links:
-  - title: BayesLands GitHub page
-    url: https://github.com/intelligentEarth/pt-Bayeslands
+image: /assets/img/projects/socialplay/DSC_4519.JPG
 sitemap: false
+galleries: hello
+
 ---
 ### Social Play
 
@@ -21,8 +19,9 @@ The workshop was formatted in three stages in the following order: Feeling, Thin
 Mirroring exercises, engaging with sound and meditation, being conscious of our own body language was the first step to induce empathy and anticipation for The Other through guided tasks by the moderators.
 Creating images with the body of different roles in society, and themes of conflict was the second.
 
+
 **Day 2 of ‘Social Play’**
 *5th December ‘19*
 The second day of the workshop was formatted in three stages in the following order: Thinking, Feeling and Conclusion.
 
-We’re thankful to T2f (https://www.t2f.com.pk/) for giving us the space to conduct this workshop. 
+We’re thankful to [T2f](https://www.t2f.com.pk/) for giving us the space to conduct this workshop.

@@ -1,19 +1,22 @@
 ---
 layout: project
-title: 'BayesReef'
-caption: "BayesReef: A Bayesian inference framework for pyReef-Core using MCMC methods"
+title: 'Reading List'
+caption: List of readings
 description: >
-  BayesReef: A Bayesian inference framework for pyReef-Core using MCMC methods
-date: Sept 2017
-image: /assets/img/projects/BayesReef.png
-links:
-  - title: BayesReef GitHub page
-    url: https://github.com/intelligentEarth/Bayesreef
+  Here is a reading list to browse through to get more familiar with our work.
+date: 28 Feb 2020
+image: 
+  path: /assets/img/projects/socialplay/Readinglist.jpg
+  # srcset: 
+  #   1920w: /assets/img/projects/qwtel.jpg
+  #   960w:  /assets/img/projects/qwtel@0,5x.jpg
+  #   480w:  /assets/img/projects/qwtel@0,25x.jpg
 accent_color: '#4fb1ba'
 accent_image:
-  background: 'linear-gradient(to bottom, #0a7b81 0%, #01636e 25%, #02505b 50%, #073a4a 75%, #082e39 100%)'
-  overlay:    true
+  background: '#193747'
+theme_color: '#193747'
 sitemap: false
+# author: Dania
 ---
 ## Reading List
 
