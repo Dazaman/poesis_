@@ -63,8 +63,8 @@ menu:
     url:               /projects/
   - title:             Resources
     url:               /resources/
-  - title:             Résumé*
-    url:               /resume/
+  # - title:             Résumé*
+  #   url:               /resume/
   - title:             Documentation
     url:               /docs/
   - title:             About
