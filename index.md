@@ -5,19 +5,18 @@ sitemap: false
 cover: true
 ---
 
-Thank you for visiting the Poesis Social Art webpage! 🎉
+## About Us
 
-Poiesis.socialart is a digital space that discusses and engages in social art practice, and it also hosts workshops around the themes of inclusion and social justice to bridge fieldwork with research.
+Initially seeded in 2015 about our collective will to start a podcast that intersects our interests in art, Poiesis.SocialArt was founded August 2019. It is a digital academic archive run by us, visual artists/educators, Dania Shahkhan and Maha Minhaj, where we archive, curate and write about the practices of local and international socially engaged artists, in the form of visual media and academic podcasts.
+Instagram Handle: [@poiesis.socialart](https://www.instagram.com/poiesis.socialart/); Soundcloud Handle: [Poiesis.SocialArt](https://soundcloud.com/user-384729018)
 
-## Resume
-If you would like to find out more about us, you can have a look at our resumes, please click [Resume]{:.heading.flip-title}.
+## Goal
 
-## Projects
-If you would like to visit some of my projects, please click [Projects]{:.heading.flip-title}.
+The aim of this platform is to grow as a resource bank for students, practitioners and researchers.
+We also hope to eventually become a platform that enables creators and practitioners to pursue SEA in Pakistan and all around the world.
 
-[projects]: projects.md
-[resume]: resume.md
-[documentation]: docs/README.md
-[install]: docs/install.md
-[upgrade]: docs/upgrade.md
-[config]: docs/config.md
+### You can find out more about our projects, access resources or scroll through our archive via these link or from the sidebar
+
+- [projects](projects.md)
+- [resources](resources.md)
+- [archive](archive.md)
