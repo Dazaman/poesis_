@@ -317,6 +317,10 @@ collections:
     permalink:         /resources/:path/
     output:            true
 
+  archives:
+    permalink:         /archives/:path/
+    output:            true
+
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------
 
