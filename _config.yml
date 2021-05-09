@@ -55,15 +55,13 @@ logo:                  "/assets/img/Logoforwebsite.png"
 
 # Add links to the sidebar.
 menu:
-  # - title:             Blog
-  #   url:               /blog/
   - title:             Projects
     url:               /projects/
   - title:             Resources
     url:               /resources/
-  # - title:             Résumé*
-  #   url:               /resume/
-  - title:             Archive
+  - title:             Archives
+    url:               /archives/
+  - title:             Podcast
     url:               /docs/
   - title:             About Us
     url:               /about/

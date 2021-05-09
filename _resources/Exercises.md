@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Exercises'
-caption: ''
+caption: 'Games'
 description: >
   ''
 date: 20 Feb 2020
