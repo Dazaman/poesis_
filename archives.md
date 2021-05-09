@@ -1,7 +1,7 @@
 ---
 layout: projects
-title: Resources
-show_collection: resources
+title: Archives
+show_collection: archives
 description:
 no_groups: true
 ---
