@@ -6,7 +6,7 @@ description: >
   ''
 date: 20 Feb 2020
 image: 
-  path: /assets/img/projects/socialplay/Games.jpg
+  path: /assets/img/projects/archives/Games.jpg
   # srcset: 
   #   1920w: /assets/img/projects/qwtel.jpg
   #   960w:  /assets/img/projects/qwtel@0,5x.jpg
