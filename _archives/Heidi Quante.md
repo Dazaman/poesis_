@@ -1,12 +1,12 @@
 ---
 layout: project
 title: 'Heidi Quante'
-caption: 'Heidi Quante'
+caption: 'Project: Bureau of Linguistical Reality'
 description: >
   ''
-date: 20 Feb 2020
+date: 20-02-2020
 image: 
-  path: /assets/img/projects/archive/Games.jpg
+  path: /assets/img/projects/archive/Heidi_Quante.jpg
   # srcset: 
   #   1920w: /assets/img/projects/qwtel.jpg
   #   960w:  /assets/img/projects/qwtel@0,5x.jpg
@@ -22,16 +22,8 @@ sitemap: false
 
 Project: Bureau of Linguistical Reality
 
-Heidi Quante 
+Heidi Quante is an American artist with an interdisciplinary focus on environmental and human rights. Quante is the founder of the non-profit ['Creative Catalysts'](https://creativecatalysts.org/testimonials/) which is an organisation that seeks to find innovative ideas to approach the challenging social and environmental issues of our time.  
 
+[The Bureau of Linguistical Reality](https://bureauoflinguisticalreality.com/about/) was created by Heidi Quante and Alicia Escott (Co-Founder & Executive Director of Interspecies Advancement (EDIA) and Treasurer of Geologic Time (TGT)) to give meaning to climate change by creating a new dicitonary of terms or language. 
 
-Check out these links for more info:
-
-https://creativecatalysts.org/testimonials/
-
-http://highwaterline.org/about/the-people/
-
-https://bureauoflinguisticalreality.com/about/
-
-
-
+'The vision of the artwork is to provide new words to express what people are feeling and experiencing as our world changes as climate change accelerates'

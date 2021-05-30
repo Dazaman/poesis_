@@ -1,12 +1,12 @@
 ---
 layout: project
 title: 'Michael Pederson'
-caption: 'Michael Pederson'
+caption: 'Michael Pederson aka Miguel Marquez is an artist based in Sydney'
 description: >
   ''
-date: 20 Feb 2020
+date: 20-02-2020
 image: 
-  path: /assets/img/projects/archive/Games.jpg
+  path: /assets/img/projects/archive/Michael_Pederson.jpg
   # srcset: 
   #   1920w: /assets/img/projects/qwtel.jpg
   #   960w:  /assets/img/projects/qwtel@0,5x.jpg
@@ -20,9 +20,8 @@ sitemap: false
 ---
 ## Michael Pederson
 
-Michael Pederson aka Miguel Marquez is an artist based in Sydney.
+[Michael Pederson](https://miguelmarquezoutside.com/) aka Miguel Marquez is an artist based in Sydney.
 
+Pederson artistically intervenes in the urban spaces of Sydney by [creating signs](https://www.thisiscolossal.com/2015/10/sydney-street-signs/) that are thought provoking, quirky and humorous near every day [places](https://www.thisiscolossal.com/2017/09/michael-pedersons-lighthearted-street-art-is-hidden-in-plain-sight/) such as parks, streets and industrial zones.
 
-
-
-Link: https://www.thisiscolossal.com/2017/09/michael-pedersons-lighthearted-street-art-is-hidden-in-plain-sight/
+Pederson's purpose is to shift the spectator's mundane every day experience into a curious, introspective perpective of our surroundings.

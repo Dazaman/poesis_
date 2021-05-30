@@ -1,12 +1,12 @@
 ---
 layout: project
 title: 'Conflict Kitchen'
-caption: 'Conflict Kitchen'
+caption: 'Conflict Kitchen is a restaurant that servces cuisine from conflict stricken countries'
 description: >
   ''
-date: 20 Feb 2020
+date: 20-02-2020
 image: 
-  path: /assets/img/projects/archive/Games.jpg
+  path: /assets/img/projects/archive/conflict_kitchen.jpg
   # srcset: 
   #   1920w: /assets/img/projects/qwtel.jpg
   #   960w:  /assets/img/projects/qwtel@0,5x.jpg
@@ -20,12 +20,4 @@ sitemap: false
 ---
 ## Conflict Kitchen
 
-“Conflict Kitchen is a restaurant that servces cuisine from conflict stricken countries especially with the United States. 
-
-.
-
-
-Link 👇🏽
-(https://www.conflictkitchen.org/about/) 
-
-
+[Conflict Kitchen](https://www.conflictkitchen.org/about/) is a restaurant that servces cuisine from conflict stricken countries especially with the United States. The restaurant rotates the different conflict stricken countries seven days a week in the city of Pittsburgh according to current events. Performances, events and discussions are hosted to provide a larger narrative of the culture and politics within the region for the public to interact with.
