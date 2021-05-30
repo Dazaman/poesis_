@@ -6,7 +6,7 @@ description: >
   ''
 date: 20 Feb 2020
 image: 
-  path: /assets/img/projects/archive/Kirtika_Kain.jpg
+  path: /assets/img/projects/archives/Kirtika_Kain.jpg
   # srcset: 
   #   1920w: /assets/img/projects/qwtel.jpg
   #   960w:  /assets/img/projects/qwtel@0,5x.jpg

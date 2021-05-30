@@ -6,7 +6,7 @@ description: >
   ''
 date: 20-02-2020
 image: 
-  path: /assets/img/projects/archive/Ibrahim_Mahama.jpg
+  path: /assets/img/projects/archives/Ibrahim_Mahama.jpg
   # srcset: 
   #   1920w: /assets/img/projects/qwtel.jpg
   #   960w:  /assets/img/projects/qwtel@0,5x.jpg
@@ -20,7 +20,7 @@ sitemap: false
 ---
 ## Ibrahim Mahama
 
-Art work: Worn traditional smocks on charcoal jute sacks
+### Art work: Worn traditional smocks on charcoal jute sacks
 
 [Ibrahm Mahama](https://whitecube.com/artists/artist/him_mahama) is a Ghanian artist and author. He works primarly with found objects tranforming them to create new meanings.
 

@@ -20,7 +20,7 @@ sitemap: false
 ---
 ## Rick Lowe
 
-Project: [Row Houses Project](https://projectrowhouses.org/ )
+### Project: [Row Houses Project](https://projectrowhouses.org/ )
 
 Houston-based artist addresses community issues like urban renewal and gentrification by transforming abandoned buildings into cultural hubs. "Located in Houston’s Northern Third Ward, one of the city’s oldest African-American neighborhoods, Project Row Houses is founded on the principle that art and the community it creates can be the foundation for revitalizing depressed inner-city neighborhoods. The Northern Third Ward, though home to landmarks like the Eldorado Ballroom, where greats like B.B. King once played, has long been plagued by severe unemployment, teenage pregnancy, crumbling structures and drug trafficking. Addressing this situation, Project Row Houses provides programs that encompass neighborhood revitalization, community service and education."
 

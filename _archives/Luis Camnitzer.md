@@ -6,7 +6,7 @@ description: >
   ''
 date: 20-02-2020
 image: 
-  path: /assets/img/projects/archive/illegal_art.jpg
+  path: /assets/img/projects/archives/illegal_art.jpg
   # srcset: 
   #   1920w: /assets/img/projects/qwtel.jpg
   #   960w:  /assets/img/projects/qwtel@0,5x.jpg
@@ -20,7 +20,7 @@ sitemap: false
 ---
 ## Luis Camnitzer
 
-Project: Art History Lesson, 2000
+### Project: Art History Lesson, 2000
 
 Luis Cmnitzer is a German born Uruguayan artist, art critic, academic and curator at the center of 1960's Conceptual Art.
 

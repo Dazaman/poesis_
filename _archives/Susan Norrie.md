@@ -20,8 +20,8 @@ sitemap: false
 ---
 ## Susan Norrie
 
-Project: Havoc 2006 - 2007 
+### Project: Havoc 2006 - 2007
 
 [Susan Norrie](https://www.susannorrie.com/) is an artist based in Sydney and her practice focuses on environemtal and human rights. Norrie's practice encompasses art, documentary and film genres.
 
-At the 52nd Venice Bienanale, Norrie represented Australia in 2007. Norrie created an installation called 'Havoc' based on the Lusi Mud Volcano, in East Java, Indonesia. Norrie documented the destruction of the volcano on the people and their land, in 2016 on her return to Indonesia. 
+At the 52nd Venice Bienanale, Norrie represented Australia in 2007. Norrie created an installation called 'Havoc' based on the Lusi Mud Volcano, in East Java, Indonesia. Norrie documented the destruction of the volcano on the people and their land, in 2016 on her return to Indonesia.

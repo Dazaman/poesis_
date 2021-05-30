@@ -6,7 +6,7 @@ description: >
   ''
 date: 20-02-2020
 image: 
-  path: /assets/img/projects/archive/Games.jpg
+  path: /assets/img/projects/archives/Games.jpg
   # srcset: 
   #   1920w: /assets/img/projects/qwtel.jpg
   #   960w:  /assets/img/projects/qwtel@0,5x.jpg
@@ -20,8 +20,9 @@ sitemap: false
 ---
 ## Feminist Economics Department
 
-Artist: Cassie Thornton
-Project: [Secret Chakra: Feminist Economics Yoga](http://feministeconomicsdepartment.com/secret-chakra-feminist-economics-yoga)
+### Artist: Cassie Thornton
+
+### Project: [Secret Chakra: Feminist Economics Yoga](http://feministeconomicsdepartment.com/secret-chakra-feminist-economics-yoga)
 
 Cassie Thornton is 'a feminist economist and artist' Her social practice explores how financial and social debt affect the -psychology of the individual and public. Thornton aims to bring alternative services like 'debt visualizations', 'wall demolition', 'feminist economics yoga' and 'alternative credit reports'.
 
