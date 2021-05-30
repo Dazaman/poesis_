@@ -4,7 +4,7 @@ title: 'Shirin Towfiq'
 caption: 'Project: Cup for Two'
 description: >
   ''
-date: 20-02-2020
+date: 23-02-2020
 image: 
   path: /assets/img/projects/archive/shirin_towfiq.jpg
   # srcset: 

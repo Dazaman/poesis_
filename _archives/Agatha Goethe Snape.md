@@ -4,7 +4,7 @@ title: 'Exercises'
 caption: ''
 description: >
   ''
-date: 20 Feb 2020
+date: 27-02-2020
 image: 
   path: /assets/img/projects/archives/Agatha_Gothe_Snape.jpg
   # srcset: 

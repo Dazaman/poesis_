@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Rick Lowe'
-caption: 'Row Hpuses Project'
+caption: 'Row Houses Project'
 description: >
   ''
 date: 20-02-2020

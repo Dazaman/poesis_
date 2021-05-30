@@ -1,10 +1,10 @@
 ---
 layout: project
-title: 'Exercises'
-caption: ''
+title: 'Feminist Economics Department'
+caption: 'Secret Chakra: Feminist Economics Yoga'
 description: >
   ''
-date: 20-02-2020
+date: 01-02-2020
 image: 
   path: /assets/img/projects/archives/Games.jpg
   # srcset: 

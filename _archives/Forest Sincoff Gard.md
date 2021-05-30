@@ -4,7 +4,7 @@ title: 'Forrest Sincoff Gard'
 caption: 'Project: Can you help me with the Dishes? 2014'
 description: >
   ''
-date: 20-02-2020
+date: 19-02-2020
 image: 
   path: /assets/img/projects/archives/Forrest_Sincoff.jpg
   # srcset: 

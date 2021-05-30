@@ -4,7 +4,7 @@ title: 'Ibrahim Mahama'
 caption: 'Worn traiditonal smocks on charcoal jute sacks'
 description: >
   ''
-date: 20-02-2020
+date: 16-02-2020
 image: 
   path: /assets/img/projects/archives/Ibrahim_Mahama.jpg
   # srcset: 

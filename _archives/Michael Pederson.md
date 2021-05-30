@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Michael Pederson'
-caption: 'Michael Pederson aka Miguel Marquez is an artist based in Sydney'
+caption: 'Humorous Street Signs and Other Contextual Street Art Interventions'
 description: >
   ''
 date: 20-02-2020
