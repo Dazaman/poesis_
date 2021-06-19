@@ -7,7 +7,7 @@ date: '01-01-2019'
 image: /assets/img/projects/socialplay/DSC_4519.JPG
 accent_color: '#E5B10F'
 accent_image:
-  background: '#E5B10F'
+background: '#E5B10F'
 theme_color: '#E5B10F'
 sitemap: false
 galleries: hello
@@ -22,7 +22,6 @@ Social Play was a two day workshop designed for those interested in movement, th
 The workshop was formatted in three stages in the following order: Feeling, Thinking and Conclusion. It consisted of theatre warm ups to shake, loosen and exhaust the participants to create images for Forum Theatre which is a part of the Theatre of the Oppressed.
 Mirroring exercises, engaging with sound and meditation, being conscious of our own body language was the first step to induce empathy and anticipation for The Other through guided tasks by the moderators.
 Creating images with the body of different roles in society, and themes of conflict was the second.
-
 
 **Day 2 of ‘Social Play’**
 *5th December ‘19*

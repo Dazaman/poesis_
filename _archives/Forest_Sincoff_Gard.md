@@ -2,8 +2,7 @@
 layout: project
 title: 'Forrest Sincoff Gard'
 caption: 'Project: Can you help me with the Dishes? 2014'
-description: >
-  ''
+description: ''
 date: 19-02-2020
 image: 
   path: /assets/img/projects/archives/Forrest_Sincoff.jpg
@@ -13,7 +12,7 @@ image:
   #   480w:  /assets/img/projects/qwtel@0,25x.jpg
 accent_color: '#E5B10F'
 accent_image:
-  background: '#E5B10F'
+background: '#E5B10F'
 theme_color: '#E5B10F'
 sitemap: false
 # author: Dania

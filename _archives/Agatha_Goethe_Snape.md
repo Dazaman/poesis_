@@ -1,9 +1,8 @@
 ---
 layout: project
-title: 'Exercises'
-caption: ''
-description: >
-  ''
+title: 'Agatha Goethe Snape'
+caption: 'All Schools Should be Art Schools'
+description: ''
 date: 27-02-2020
 image: 
   path: /assets/img/projects/archives/Agatha_Gothe_Snape.jpg
@@ -13,7 +12,7 @@ image:
   #   480w:  /assets/img/projects/qwtel@0,25x.jpg
 accent_color: '#E5B10F'
 accent_image:
-  background: '#E5B10F'
+background: '#E5B10F'
 theme_color: '#E5B10F'
 sitemap: false
 # author: Dania

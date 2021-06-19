@@ -2,18 +2,17 @@
 layout: project
 title: 'Luis Camnitzer'
 caption: 'Project: Art History Lesson, 2000'
-description: >
-  ''
+description: ''
 date: 20-02-2020
 image: 
-  path: /assets/img/projects/archives/illegal_art.jpg
+  path: /assets/img/projects/archives/luis_camnitzer.jpg
   # srcset: 
   #   1920w: /assets/img/projects/qwtel.jpg
   #   960w:  /assets/img/projects/qwtel@0,5x.jpg
   #   480w:  /assets/img/projects/qwtel@0,25x.jpg
 accent_color: '#E5B10F'
 accent_image:
-  background: '#E5B10F'
+background: '#E5B10F'
 theme_color: '#E5B10F'
 sitemap: false
 # author: Dania

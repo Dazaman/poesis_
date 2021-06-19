@@ -2,9 +2,8 @@
 layout: project
 title: 'Conflict Kitchen'
 caption: 'Conflict Kitchen is a restaurant that servces cuisine from conflict stricken countries'
-description: >
-  ''
-date: 20-02-2020
+description: ''
+date: 25-02-2020
 image: 
   path: /assets/img/projects/archives/conflict_kitchen.jpg
   # srcset: 
@@ -13,7 +12,7 @@ image:
   #   480w:  /assets/img/projects/qwtel@0,25x.jpg
 accent_color: '#E5B10F'
 accent_image:
-  background: '#E5B10F'
+background: '#E5B10F'
 theme_color: '#E5B10F'
 sitemap: false
 # author: Dania
