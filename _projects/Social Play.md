@@ -22,9 +22,9 @@ Working with dramaturgical and Participatory Action Research (PAR) techniques (S
 
 The workshop was formatted in three stages in the following order:
 
-    - 1. Feeling
-    - 2. Thinking
-    - 3. Conclusion
+    1. Feeling
+    2. Thinking
+    3. Conclusion
 
 Intial start of the workshop included theatre warm ups to shake, loosen and exhaust the participants which allowed them to fully immerse and get themselves comfortable to eventually create images for Forum Theatre which is large part of the Theatre of the Oppressed and of this workshop.
 
@@ -36,9 +36,9 @@ At the end of every exercise was five-minute discussion - where discussions arou
 
 The second day of the workshop was formatted in a (slight) reverse order from day 1 whilst having a heavy emphasis on TO (Theater of the Oppressed) and Forum Theater.
 
-    - 1. Thinking
-    - 2. Feeling
-    - 3. Conclusion
+    1. Thinking
+    2. Feeling
+    3. Conclusion
 
 ~
 
