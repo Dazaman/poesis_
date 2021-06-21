@@ -5,8 +5,6 @@ sitemap: false
 cover: true
 ---
 
-## Welcome to Poiesis Social Art!
-
 *[~ PO-ee-sis; from Ancient Greek: ποίησις  is "the activity in which a person brings something into being that did not exist before" or, to create ~]*
 
 Our collective will to start a podcast that intersected our interests with art and community was laid down in 2015, and over the next four years this will became a reality as Poiesis.SocialArt in August 2019. Poiesis is a digital academic archive run by both of us, visual artists & educators, Dania Shahkhan and Maha Minhaj. We archive, curate and write about the practices of local and international socially engaged artists, in the form of visual media and academic podcasts
