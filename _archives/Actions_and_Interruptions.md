@@ -19,11 +19,13 @@ sitemap: false
 ---
 ## Actions and Interruptions (2007)
 
+Artists: Dora García, Mario Garcia Torres, Roman Ondák, Jiří Kovanda, and Nina Beier and Marie Lund
+
 What happens when a group of performance artists go undercover at Tate Modern? Artists Dora García, Jiří Kovanda, Roman Ondák, Mario Garcia Torres, Nina Jan Beier and Marie Jan Lund explore the way visitors behave in a museum, subtly intervening to disrupt the usual codes of conduct.
 Ordinary activities like standing in a queue, travelling on an escalator or listening to a gallery tour-guide takes on strange new dimensions.
 
 Saturday Live: Actions and Interruptions 2007
-TateShots video including artists Dora García, Mario Garcia Torres, Roman Ondák, Jiří Kovanda, and Nina Beier and Marie Lund
+TateShots [video](https://www.youtube.com/watch?v=f1jBHNQb2-A&t=41s) including artists Dora García, Mario Garcia Torres, Roman Ondák, Jiří Kovanda, and Nina Beier and Marie Lund
 
 ### Resources
 

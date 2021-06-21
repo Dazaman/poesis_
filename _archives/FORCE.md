@@ -19,6 +19,9 @@ sitemap: false
 ---
 ## FORCE
 
+Artists: Rebecca Nagle and Hannah Brancato
+Project: Force | Baltimore, Maryland USA
+
 TW: Rape
 
 The Monument Quilt is a project of ‘FORCE’ which is an art and activist collective dedicated to creating a culture of consent. The Monument Quilt is an enormous red fabric quilt stitched with stories of survivors of sexual assault.

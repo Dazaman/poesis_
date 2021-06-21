@@ -18,6 +18,8 @@ sitemap: false
 ---
 ## Mierle aderman Ukeles
 
+In-Focus: Mierle Laderman Ukeles
+
 Mierle Laderman Ukeles is a New York City-based artist known for her feminist and service-oriented artwork, which relates the idea of process in conceptual art to domestic and civic "maintenance".
 
 Ukeles has held the official position for DSNY for 39 years, though it’s never been paid. Of course, when the department hired her in 1978, the city was on the brink of bankruptcy, and sanitation workers (“sanmen,” for short) were between strikes; the department was not in a position to offer her money. Yet the contradiction of Ukeles’s decades-long, authorized, uncompensated role cuts to the heart of the complications underlying her work.

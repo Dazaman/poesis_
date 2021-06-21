@@ -4,7 +4,7 @@ title: 'Glossary'
 caption: Glossary of terms
 description: >
   Here is a glossary of terms used in our work.
-date: 28 Feb 2020
+date: 01-03-2020
 image: 
   path: /assets/img/projects/socialplay/Glossary.jpg
   # srcset: 
@@ -20,8 +20,6 @@ sitemap: false
 ---
  
 ## Glossary
-
-### Coliberate - Collaboratively liberate one another
 
 [Facilitator/Joker](https://study.com/academy/lesson/theatre-of-the-oppressed-definition-history-characteristics.html) -  The moderator. The Facilitator's/Joker’s job is to oversee the games and skits, to provide structure, but not to interfere. How events unfold is up to the audience and performers.
 

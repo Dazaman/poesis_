@@ -14,6 +14,8 @@ sitemap: false
 ---
 ## Silent University
 
+Profile: Silent University
+
 The Silent University, initiated by artist Ahmet Öğüt in 2012, is an autonomous platform for academics who cannot share their knowledge due to their status of residence, because their degrees are not recognized or regaining access to academia is blocked for other reasons. It is a solidary school by refugees, asylum seekers and migrants who contribute to the program as lecturers, consultants and researchers.’
 
 [Silent University](https://mitpress.mit.edu/books/silent-university)

@@ -19,6 +19,9 @@ sitemap: false
 ---
 ## Banksy
 
+Artist: Banksy
+Project: Louise Michel, 2019
+
 Banksy sponsors a rescue boat, Louise Michel.
 Street artist Banksy has recently sponsored a boat to rescue migrants on sea. The boat, formerly known as Suroît was a French customs boat which was bought by an anonymous bidder (read: Banksy). It was then refitted and renamed after Louise Michel, a french feminist and anarchist during late 19th century.
 

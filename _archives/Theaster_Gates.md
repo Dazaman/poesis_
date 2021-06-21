@@ -15,6 +15,10 @@ sitemap: false
 ---
 ## Theaster Gates
 
-Theaster Gates creates work that focuses on space theory and land development, sculpture and performance. Drawing on his interest and training in urban planning and preservation, Gates redeems spaces that have been left behind. Known for his recirculation of art-world capital, Gates creates work that focuses on the possibility of the “life within things.” Gates smartly upturns art values, land values, and human values. In all aspects of his work, he contends with the notion of Black space as a formal exercise – one defined by collective desire, artistic agency, and the tactics of a pragmatist.”
+In-Focus: Theaster Gates
+
+Theaster Gates lives and works in Chicago. Gates creates work that focuses on space theory and land development, sculpture and performance. Drawing on his interest and training in urban planning and preservation, Gates redeems spaces that have been left behind. Known for his recirculation of art-world capital, Gates creates work that focuses on the possibility of the “life within things.”
+
+Theaster Gates creates work that focuses on space theory and land development, sculpture and performance. Drawing on his interest and training in urban planning and preservation, Gates redeems spaces that have been left behind. Known for his recirculation of art-world capital, Gates creates work that focuses on the possibility of the “life within things.” Gates smartly upturns art values, land values, and human values. In all aspects of his work, he contends with the notion of Black space as a formal exercise – one defined by collective desire, artistic agency, and the tactics of a pragmatist.
 
 To read up more about Gates and his incredible work especially ‘Stony Islands Art Banks’, visit the webpage [here](https://www.theastergates.com/project-items/stony-island-arts-bank).

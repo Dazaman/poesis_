@@ -19,6 +19,8 @@ sitemap: false
 ---
 ## Ian Nesbitt
 
+Artist: Ian Nesbitt
+
 Ian Nesbitt is an artist, filmmaker and activist, interested in creating spaces for exchange that go beyond the everyday. Spanning interests in landscape politics, walking as an artform, community self-organising (neighbourhoodism), emerging social movements, and documentary film, his practice is openly collaborative, working with artists and non-artists alike.
 
 His projects explore ideas of commonality, working alongside citizens and communities to create spaces for exchange that are beyond the everyday. His work as a filmmaker focuses on exploring identity and community through making work collaboratively, often using chance interactions to open up personal and shared terrains.

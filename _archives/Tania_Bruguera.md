@@ -20,8 +20,11 @@ sitemap: false
 ---
 ## Tania Bruguera
 
+Project: 10, 148, 451
+
 [Tania Bruguera](https://www.tate.org.uk/whats-on/tate-modern/exhibition/hyundai-commission-tania-bruguera) is a Cuban performance and installation artist.
+Bruguera explores the emotions within politics. Her work encompasses performance, film, installation, scuppture, writing, teaching as well as site-specific works. Her purpose is to cause change through her work.
 
-From 2nd October to 24th February 2019, Tania Bruguera exhibited at the Tate Modern. Her work titled '10, 148, 451' is a number that keeps increasing:'...the number of people who migrated from one country to another last year added to the number of migrant deaths recorded so far this year - to indicate the sheer scale of mass migration and the risks involved.
+From 2nd October to 24th February 2019, Tania Bruguera exhibited at the Tate Modern. Her work titled '10, 148, 451' is a number that keeps increasing:'...the number of people who migrated from one country to another last year added to the number of migrant deaths recorded so far this year - to indicate the sheer scale of mass migration and the risks involved.  
 
-21 people living or working around the same postcode as Tate Modern called 'Tate Neighbours' were inckuded in the art work.
+'In the Turbine Hall is a large heat-sensitive floor. By using your body heat and working together with other visitors, you can reveal a hidden portrait of Yousef, a young man who left Syria to come to London. Meanwhile, a low-frequency sound fills the space with an unsettling energy. In a small room nearby, an organic compound in the air induces tears and provokes what the artist describes as ‘forced empathy’.'
