@@ -16,7 +16,7 @@ theme_color: '#E5B10F'
 sitemap: false
 # author: Dania
 ---
-## Mierle aderman Ukeles
+## Mierle Laderman Ukeles
 
 In-Focus: Mierle Laderman Ukeles
 

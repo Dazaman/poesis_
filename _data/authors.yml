@@ -29,7 +29,7 @@ poesis:
     # vimeo:           <username>
     # vine:            <username>
     # spotify:         <user>/<number>
-    instagram:       poiesis.socialarts
+    instagram:       poiesis.socialart
     soundcloud:      user-384729018
     # lastfm:          <username>
     # flickr:          <string@string>
@@ -75,4 +75,4 @@ Dania:
     Dania Shahkhan is ​an art educator and a visual artist based in Sydney. I​n 2017 she received her B.F.A. in painting and new media from Indus Valley School of Art and Architecture (​Karachi, Pakistan) ​and in 2019 she did her postgraduate, M.Ed. from ArteZ University (Arnhem, Netherlands).
   picture:           "/assets/img/Dania_Shahkhan.png"
   social:
-    instagram:       _thegentlewoman_
+    instagram:       dania.sk.art
